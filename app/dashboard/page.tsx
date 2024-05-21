@@ -24,6 +24,11 @@ export default function Page() {
                         style={{backgroundColor: 'blue'}}
                     >Dos</Link>
                 </li>
+                <li>
+                    <Link 
+                        href="/dashboard/fetch"
+                    >Fetch</Link>
+                </li>
             </ul>
             <br /><br />
         </>
